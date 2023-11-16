@@ -208,15 +208,13 @@
 
 # matrix=[[1,2,3],
 #         [4,5,6],
-#         [7,8,9],
-#         [10,11,12]]
+#         [7,8,9]]
 # print(len(matrix))
 # a=transpose_matrix(matrix)
-# for i in a :
-#     print(i)
+# print(a)
 # A = [[5, 4, 3], [2, 4, 6], [4, 7, 9]]
 
-#  
+ 
 
 # d=transpose_matrix(A)
 # print(d)
@@ -224,11 +222,11 @@
 # matrix = [[1,2,3],
 #        [4,5,6],
 #        [7,8,9]]
-# # row = []
+# row = []
 
-# # for i in range(3):
-# #     for j in range(3):
-# #         pass
+# for i in range(3):
+#     for j in range(3):
+#         pass
 
 # transport_matrix = [[matrix[j][i] for j in range(3)] for i in range(3)]
 
